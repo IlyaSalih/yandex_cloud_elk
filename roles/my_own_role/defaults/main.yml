@@ -1,0 +1,5 @@
+---
+# defaults file for my_own_role
+# Значения по умолчанию для всех параметров модуля
+my_own_module_path: /tmp/my_own_module.txt
+my_own_module_content: "Hello from my_own_role"
