@@ -68,11 +68,3 @@ ansible-galaxy collection install my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz
 ansible-galaxy collection build
 # получится my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz
 ```
-
-## License
-
-GPL-3.0-or-later
-
-## Author
-
-Ilya Salih (@IlyaSalih)
